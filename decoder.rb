@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 KEY = {
   1 => 'A',
   2 => 'A',
@@ -10,9 +9,3 @@ KEY = {
   8 => 'H',
   9 => 'I',
 }
-
-print("Hello World!")
-
-
-print("I am learning Git!")
-
